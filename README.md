@@ -30,8 +30,11 @@ The pre-trained EfficientNet model performed best by far, achieving ~88% validat
 
 ## Reference
 
-Dataset source: https://www.kaggle.com/datasets/yapwh1208/cats-breed-dataset/data
+Dataset source: 
+https://www.kaggle.com/datasets/yapwh1208/cats-breed-dataset/data
 
-Akvelon's MeowTalk, AI/ML based cat translator: https://medium.com/@dmitry.astankov/cat-breed-classification-with-deep-learning-169c66b3c478
+Akvelon's MeowTalk, AI/ML based cat translator: 
+https://medium.com/@dmitry.astankov/cat-breed-classification-with-deep-learning-169c66b3c478
 
-Research paper for EfficientNet architecture: https://www.researchgate.net/publication/344410350_Classification_and_understanding_of_cloud_structures_via_satellite_images_with_EfficientUNet
+Research paper for EfficientNet architecture: 
+https://www.researchgate.net/publication/344410350_Classification_and_understanding_of_cloud_structures_via_satellite_images_with_EfficientUNet
