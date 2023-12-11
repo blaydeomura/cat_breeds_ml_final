@@ -4,7 +4,7 @@ This project aims to predict cat breeds from images using convolutional neural n
 
 ## Dataset
 
-The dataset used is from Kaggle: https://www.kaggle.com/datasets/zippyz/cats-faces
+The dataset used is from Kaggle: https://www.kaggle.com/datasets/yapwh1208/cats-breed-dataset/data
 
 It contains 953 images of cat faces from 5 popular breeds:
 - Bengal 
